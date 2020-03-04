@@ -1,0 +1,17 @@
+
+body{
+  background-color:#2effea;
+}
+canvas{
+    background-color:#3e3e3e;
+   margin:0 auto;
+  padding:0;
+  display:block;
+}
+
+h1{
+  color:#291db0;
+  font-size:48px;
+  font-family: 'Oxanium', cursive;
+  text-align:center;
+}
